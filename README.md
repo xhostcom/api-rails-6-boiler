@@ -8,6 +8,8 @@ Starter for api project with :
 - Namespace for versioning
 - Use with any front end Vue/React/Angular/  and others.
 
+template repo
+
 ## Installation
 
 `git clone git@github.com:xhostcom/api-rails-6-boiler.git`
